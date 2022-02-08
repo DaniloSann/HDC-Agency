@@ -101,5 +101,11 @@ $(document).ready(function(){
 
     });
 
+    // Parallax 
+    setTimeout(function(){
+
+        $('#data-area').parallax({ imageSrc: 'img/cidadeparallax.png'});
+
+    }, 250);
 
 });
