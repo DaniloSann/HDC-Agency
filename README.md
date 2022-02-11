@@ -6,3 +6,5 @@ Nele foi desenvolvido algumas funcionalidades em que venho estudando como respon
 
 Quer ver como ficou? 
 https://hdc-agency.netlify.app/
+
+(Projeto do Matheus Battisti do canal no YouTube Hora de Codar).
